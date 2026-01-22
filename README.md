@@ -1,7 +1,5 @@
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRB<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20Adventurer!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 # 🎮 IRFAN AFIFI ROMZI
