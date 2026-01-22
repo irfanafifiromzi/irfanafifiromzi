@@ -1,462 +1,208 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animated GitHub Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm irfanafifiromzi!
 
-        body {
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%);
-            color: #fff;
-            font-family: 'Courier New', monospace;
-            overflow-x: hidden;
-            padding: 20px;
-        }
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFE600&center=true&vCenter=true&width=940&lines=🎮+Welcome+to+my+GitHub+Profile!;⚔️+Level+99+Code+Warrior;🏆+Eating+Bugs+%26+Chasing+High+Scores!)](https://git.io/typing-svg)
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            position: relative;
-        }
+</div>
 
-        /* Animated Pac-Man Game */
-        .game-container {
-            height: 120px;
-            background: #000;
-            border: 3px solid #00ffff;
-            border-radius: 10px;
-            position: relative;
-            overflow: hidden;
-            margin: 30px 0;
-            box-shadow: 0 0 20px rgba(0, 255, 255, 0.5);
-        }
+```
+░░░░░░░░░▄▄▄▄▄
+░░░░░░░░▀▀▀██████▄▄▄
+░░░░░░▄▄▄▄▄░░█████████▄
+░░░░░▀▀▀▀█████▌░▀▐▄░▀▐█     ᗧ···🟡···🟡···👾···🟡···🟡···ᗣ
+░░░▀▀█████▄▄░▀██████▄██
+░░░▀▄▄▄▄▄░░▀▀█▄▀█════█▀
+░░░░░░░░▀▀▀▄░░▀▀███░▀       PAC-MAN EATING BUGS SINCE 2020
+░░░░░▄███▄▀█▄▄▄▄▄▄▄
+░░░▄▀▀▀▀▀▀▀▀█▄▄▄▄▄▄█
+```
 
-        .pacman {
-            width: 40px;
-            height: 40px;
-            background: #ffff00;
-            border-radius: 50%;
-            position: absolute;
-            top: 40px;
-            left: -50px;
-            animation: movePacman 8s linear infinite;
-            clip-path: polygon(100% 50%, 50% 0, 0 0, 0 100%, 50% 100%);
-        }
+---
 
-        .pacman::before {
-            content: '';
-            position: absolute;
-            width: 6px;
-            height: 6px;
-            background: #000;
-            border-radius: 50%;
-            top: 8px;
-            right: 15px;
-        }
+## 🕹️ About Me
 
-        @keyframes movePacman {
-            0% { left: -50px; }
-            100% { left: 100%; }
-        }
+```javascript
+const developer = {
+    name: "irfanafifiromzi",
+    role: "Full Stack Developer",
+    location: "Your City 🌍",
+    currentMission: "Eating bugs and writing features!",
+    languages: ["JavaScript", "Python", "TypeScript"],
+    currentlyLearning: ["React", "Next.js", "AI/ML"],
+    hobbies: ["Gaming 🎮", "Coding 💻", "Coffee ☕"],
+    funFact: "I debug in production... JK! 😅"
+};
+```
 
-        .ghost {
-            width: 35px;
-            height: 35px;
-            position: absolute;
-            top: 42px;
-            animation: moveGhost 8s linear infinite;
-        }
+<div align="center">
 
-        .ghost1 { left: 20%; animation-delay: 0s; }
-        .ghost2 { left: 40%; animation-delay: 0.5s; }
-        .ghost3 { left: 60%; animation-delay: 1s; }
-        .ghost4 { left: 80%; animation-delay: 1.5s; }
+**🎯 Current Quest:** [Your Current Project]  
+**🌱 Learning:** React | TypeScript | Next.js  
+**💬 Ask me about:** JavaScript, Python, Web Development  
+**📫 Reach me:** your.email@example.com  
 
-        @keyframes moveGhost {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-        }
+</div>
 
-        .ghost-body {
-            width: 100%;
-            height: 70%;
-            background: var(--ghost-color);
-            border-radius: 50% 50% 0 0;
-            position: relative;
-        }
+---
 
-        .ghost-eyes {
-            position: absolute;
-            top: 10px;
-            left: 8px;
-        }
+## 🎮 Power-Ups (Tech Stack)
 
-        .ghost-eye {
-            width: 8px;
-            height: 8px;
-            background: #fff;
-            border-radius: 50%;
-            display: inline-block;
-            margin: 0 2px;
-            position: relative;
-        }
+<div align="center">
 
-        .ghost-eye::after {
-            content: '';
-            width: 4px;
-            height: 4px;
-            background: #000;
-            border-radius: 50%;
-            position: absolute;
-            top: 2px;
-            left: 2px;
-        }
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-        .ghost-tail {
-            width: 100%;
-            height: 30%;
-            position: absolute;
-            bottom: 0;
-            display: flex;
-        }
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-        .ghost-tail span {
-            flex: 1;
-            background: var(--ghost-color);
-            border-radius: 0 0 50% 50%;
-        }
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-        .dots {
-            position: absolute;
-            top: 56px;
-            width: 100%;
-            display: flex;
-            justify-content: space-around;
-            padding: 0 20px;
-        }
+</div>
 
-        .dot {
-            width: 8px;
-            height: 8px;
-            background: #ffb8ae;
-            border-radius: 50%;
-            animation: blink 1s infinite;
-        }
+---
 
-        @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.3; }
-        }
+## 📊 Game Stats
 
-        /* Header */
-        header {
-            text-align: center;
-            padding: 40px 0;
-        }
+<div align="center">
 
-        h1 {
-            font-size: 3em;
-            background: linear-gradient(45deg, #00ffff, #ffff00, #ff00ff);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            animation: glow 2s ease-in-out infinite;
-        }
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irfanafifiromzi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF"/>
 
-        @keyframes glow {
-            0%, 100% { filter: brightness(1); }
-            50% { filter: brightness(1.5); }
-        }
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanafifiromzi&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=FFE600&fire=FFE600&currStreakLabel=FFE600"/>
 
-        .subtitle {
-            font-size: 1.2em;
-            color: #00ffff;
-            margin-top: 10px;
-            animation: float 3s ease-in-out infinite;
-        }
+</div>
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
-        }
+<div align="center">
 
-        /* Stats Section */
-        .stats {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin: 40px 0;
-        }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanafifiromzi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FFE600&text_color=FFFFFF)
 
-        .stat-card {
-            background: rgba(26, 26, 46, 0.8);
-            border: 2px solid #00ffff;
-            border-radius: 15px;
-            padding: 30px;
-            text-align: center;
-            transition: transform 0.3s, box-shadow 0.3s;
-            animation: fadeIn 1s ease-in;
-        }
+</div>
 
-        .stat-card:hover {
-            transform: translateY(-10px) scale(1.05);
-            box-shadow: 0 10px 30px rgba(0, 255, 255, 0.5);
-        }
+---
 
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+## 🐍 Contribution Snake Eating My Contributions
 
-        .stat-number {
-            font-size: 3em;
-            color: #ffff00;
-            font-weight: bold;
-            text-shadow: 0 0 10px #ffff00;
-        }
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/irfanafifiromzi/irfanafifiromzi/output/github-contribution-grid-snake-dark.svg)
 
-        .stat-label {
-            font-size: 1em;
-            color: #00ffff;
-            margin-top: 10px;
-        }
+</div>
 
-        /* Progress Bar */
-        .progress-section {
-            margin: 40px 0;
-        }
+---
 
-        .progress-item {
-            margin: 20px 0;
-        }
+## 📈 Activity Graph
 
-        .progress-label {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 10px;
-            color: #00ffff;
-        }
+<div align="center">
 
-        .progress-bar {
-            width: 100%;
-            height: 30px;
-            background: rgba(26, 26, 46, 0.8);
-            border: 2px solid #00ffff;
-            border-radius: 15px;
-            overflow: hidden;
-            position: relative;
-        }
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irfanafifiromzi&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFE600&line=FFE600&point=FFFFFF)](https://github.com/irfanafifiromzi)
 
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #00ffff, #ffff00, #ff00ff);
-            border-radius: 13px;
-            animation: progressFlow 2s ease-in-out;
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .progress-fill::after {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
-            animation: shine 2s infinite;
-        }
+---
 
-        @keyframes progressFlow {
-            from { width: 0; }
-        }
+## 🏆 GitHub Trophies
 
-        @keyframes shine {
-            to { left: 200%; }
-        }
+<div align="center">
 
-        /* Footer */
-        footer {
-            text-align: center;
-            margin-top: 60px;
-            padding: 20px;
-            color: #00ffff;
-        }
+![trophy](https://github-profile-trophy.vercel.app/?username=irfanafifiromzi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin: 20px 0;
-        }
+</div>
 
-        .social-btn {
-            padding: 10px 20px;
-            background: rgba(0, 255, 255, 0.2);
-            border: 2px solid #00ffff;
-            border-radius: 10px;
-            color: #00ffff;
-            text-decoration: none;
-            transition: all 0.3s;
-        }
+---
 
-        .social-btn:hover {
-            background: #00ffff;
-            color: #000;
-            transform: scale(1.1);
-            box-shadow: 0 0 20px #00ffff;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>🎮 Irfanafifiromzi 🎮</h1>
-            <p class="subtitle">Level 99 Code Warrior | Bug Hunter | High Score Chaser</p>
-        </header>
+## 📌 Pinned Repositories
 
-        <div class="game-container">
-            <div class="pacman"></div>
-            
-            <div class="ghost ghost1" style="--ghost-color: #ff0000;">
-                <div class="ghost-body">
-                    <div class="ghost-eyes">
-                        <span class="ghost-eye"></span>
-                        <span class="ghost-eye"></span>
-                    </div>
-                </div>
-                <div class="ghost-tail">
-                    <span></span><span></span><span></span>
-                </div>
-            </div>
+<div align="center">
 
-            <div class="ghost ghost2" style="--ghost-color: #00ffff;">
-                <div class="ghost-body">
-                    <div class="ghost-eyes">
-                        <span class="ghost-eye"></span>
-                        <span class="ghost-eye"></span>
-                    </div>
-                </div>
-                <div class="ghost-tail">
-                    <span></span><span></span><span></span>
-                </div>
-            </div>
+<a href="https://github.com/irfanafifiromzi/PROJECT_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanafifiromzi&repo=PROJECT_1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF" />
+</a>
 
-            <div class="ghost ghost3" style="--ghost-color: #ffb8ae;">
-                <div class="ghost-body">
-                    <div class="ghost-eyes">
-                        <span class="ghost-eye"></span>
-                        <span class="ghost-eye"></span>
-                    </div>
-                </div>
-                <div class="ghost-tail">
-                    <span></span><span></span><span></span>
-                </div>
-            </div>
+<a href="https://github.com/irfanafifiromzi/PROJECT_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanafifiromzi&repo=PROJECT_2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=FFE600&icon_color=FFE600&text_color=FFFFFF" />
+</a>
 
-            <div class="ghost ghost4" style="--ghost-color: #ffb852;">
-                <div class="ghost-body">
-                    <div class="ghost-eyes">
-                        <span class="ghost-eye"></span>
-                        <span class="ghost-eye"></span>
-                    </div>
-                </div>
-                <div class="ghost-tail">
-                    <span></span><span></span><span></span>
-                </div>
-            </div>
+</div>
 
-            <div class="dots">
-                <span class="dot"></span>
-                <span class="dot"></span>
-                <span class="dot"></span>
-                <span class="dot"></span>
-                <span class="dot"></span>
-                <span class="dot"></span>
-                <span class="dot"></span>
-                <span class="dot"></span>
-            </div>
-        </div>
+---
 
-        <div class="stats">
-            <div class="stat-card">
-                <div class="stat-number">500+</div>
-                <div class="stat-label">⭐ Commits</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">25</div>
-                <div class="stat-label">🚀 Projects</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">1000+</div>
-                <div class="stat-label">☕ Coffees</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number">∞</div>
-                <div class="stat-label">🐛 Bugs Fixed</div>
-            </div>
-        </div>
+## 💻 Weekly Development Breakdown
 
-        <div class="progress-section">
-            <h2 style="color: #00ffff; text-align: center; margin-bottom: 30px;">⚡ SKILL LEVELS ⚡</h2>
-            
-            <div class="progress-item">
-                <div class="progress-label">
-                    <span>JavaScript / TypeScript</span>
-                    <span>90%</span>
-                </div>
-                <div class="progress-bar">
-                    <div class="progress-fill" style="width: 90%;"></div>
-                </div>
-            </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-            <div class="progress-item">
-                <div class="progress-label">
-                    <span>React / Next.js</span>
-                    <span>85%</span>
-                </div>
-                <div class="progress-bar">
-                    <div class="progress-fill" style="width: 85%;"></div>
-                </div>
-            </div>
+<div align="center">
 
-            <div class="progress-item">
-                <div class="progress-label">
-                    <span>Python</span>
-                    <span>80%</span>
-                </div>
-                <div class="progress-bar">
-                    <div class="progress-fill" style="width: 80%;"></div>
-                </div>
-            </div>
+```text
+JavaScript   ████████████████░░░░░   80%
+Python       ████████░░░░░░░░░░░░░   40%
+TypeScript   ██████████░░░░░░░░░░░   50%
+React        ███████████████░░░░░░   75%
+CSS          ████████████░░░░░░░░░   60%
+```
 
-            <div class="progress-item">
-                <div class="progress-label">
-                    <span>Problem Solving</span>
-                    <span>95%</span>
-                </div>
-                <div class="progress-bar">
-                    <div class="progress-fill" style="width: 95%;"></div>
-                </div>
-            </div>
-        </div>
+</div>
 
-        <footer>
-            <h3 style="margin-bottom: 20px;">🎯 GAME OVER? PRESS START! 🎯</h3>
-            <div class="social-links">
-                <a href="#" class="social-btn">GitHub</a>
-                <a href="#" class="social-btn">LinkedIn</a>
-                <a href="#" class="social-btn">Twitter</a>
-                <a href="#" class="social-btn">Portfolio</a>
-            </div>
-            <p style="margin-top: 30px; color: #666;">⚡ Powered by code, coffee, and retro gaming ⚡</p>
-        </footer>
-    </div>
-</body>
-</html>
+---
+
+## 🎯 Current Missions
+
+- 🚀 Building [Project Name] - [Brief Description]
+- 📚 Learning [Technology/Framework]
+- 🎮 Contributing to [Open Source Project]
+- ✍️ Writing technical blogs on [Topic]
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ᗧ···🟡···🟡···👾···🟡···🟡···ᗣ
+  
+  GAME OVER? PRESS START!
+  
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=irfanafifiromzi&color=yellow&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/irfanafifiromzi?logo=github&style=for-the-badge&color=yellow&labelColor=0D1117)
+
+**Thanks for visiting! Now let's code something awesome! 🚀**
+
+</div>
