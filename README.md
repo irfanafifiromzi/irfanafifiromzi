@@ -105,14 +105,6 @@ class Developer {
 
 ---
 
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="Fire" /> GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=irfanafifiromzi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -183,7 +175,6 @@ class Developer {
 
 ### ✨ Thanks for visiting! ✨
 
-![Visitor Count](https://profile-counter.glitch.me/irfanafifiromzi/count.svg)
 
 **🎮 Game Over? Press Start! 🎮**
 
