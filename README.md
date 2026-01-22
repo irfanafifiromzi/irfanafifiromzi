@@ -50,7 +50,7 @@
 
 ### 🎯 **Currently**
 
-- 🔭 Working on **[Your Amazing Project]**
+- 🔭 Working on **Mobile App Development**
 - 🌱 Learning **System Design & Cloud Architecture**
 - 👯 Open to **collaborate on Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Node.js, Web Dev**
