@@ -122,17 +122,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Stats**
 
 <div align="center">
-  
-<table>
-<tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irfanafifiromzi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irfanafifiromzi&theme=radical" width="98%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanafifiromzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10&border_radius=10" width="100%" />
-
-</tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irfanafifiromzi&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irfanafifiromzi&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irfanafifiromzi&theme=radical" width="32%" />
 
 </div>
 
