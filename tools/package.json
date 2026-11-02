@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "svgs": "node build-svgs.mjs",
+    "cards": "node build-cards.mjs"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^24.10.0"
+  }
+}
